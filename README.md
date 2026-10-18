@@ -246,4 +246,4 @@ This repository serves as the official landing page for **Clash of Irons: Blitzk
 **Get the most recent version of Clash of Irons: Blitzkrieg today!**
 
 ---
-**Last updated:** 2026-10-18 08:38:44 UTC
+**Last updated:** 2026-10-18 13:02:29 UTC
